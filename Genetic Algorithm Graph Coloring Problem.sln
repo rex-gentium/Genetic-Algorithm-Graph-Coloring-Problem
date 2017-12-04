@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genetic Algorithm Graph Coloring Problem", "Genetic Algorithm Graph Coloring Problem\Genetic Algorithm Graph Coloring Problem.csproj", "{896D7180-01E6-4E0A-A2E1-936B4A43B5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896D7180-01E6-4E0A-A2E1-936B4A43B5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896D7180-01E6-4E0A-A2E1-936B4A43B5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896D7180-01E6-4E0A-A2E1-936B4A43B5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896D7180-01E6-4E0A-A2E1-936B4A43B5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14844370-EC54-4ADA-AE7E-6DC08E581749}
+	EndGlobalSection
+EndGlobal
